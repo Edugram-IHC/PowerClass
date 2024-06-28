@@ -1,13 +1,13 @@
-﻿Este es el repositorio de Github para la landing page de la aplicacion PowerClass desarrollado dentro del curso de IHC y tecnologias moviles.
+Este es el repositorio de Github para el proyecto PowerClass desarrollado dentro del curso de IHC y tecnologías móviles.
  
 Integrantes:
 
--Gabriel Alejandro Rivera Ayala
+Gabriel Rivera Ayala
 
--Jair Alexander Alva Loayza
+Jair Alexander Alva Loayza
 
--Juan Nestor Guillen Loayza
+Juan Nestor Guillen Loayza
 
--Augusto Sebastian Montes
+Augusto Sebastian Montes
 
--Kevin Omar Acosta
+Kevin Omar Acosta
