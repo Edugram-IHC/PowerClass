@@ -1,0 +1,30 @@
+body{
+    background-color: #e1d8d1bc;
+    margin:0;
+    overflow-x: hidden;
+}
+
+nav{
+    width:100vw;
+    height:50px;
+    background-color: #D18A39;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav li{
+    background-color: #D18A39;
+    list-style: none;
+    margin:20px;
+}
+
+nav li a{
+    background-color: #D18A39;
+    color:white;
+    text-decoration: none;
+}
+
+nav li a img{
+    background-color: #D18A39;
+}
